@@ -1,4 +1,4 @@
-<!-- index.html (UPDATED) -->
+<!-- index.html (UPDATED with Guitar Tuner) -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -79,7 +79,6 @@
 
         <button id="nextSong" class="btn btn-secondary">Next ▶</button>
 
-        <!-- NEW: opens external chords link if available (e.g., Oasis pack) -->
         <a id="openActiveChords" class="btn btn-secondary" target="_blank" rel="noopener" style="display:none;">
           🎸 Open Chords
         </a>
@@ -94,9 +93,38 @@
       <button id="btnLoadSet" class="btn">Load</button>
       <button id="btnDeleteSet" class="btn btn-secondary">Delete</button>
     </div>
+
+    <!-- ✅ Guitar Tuner -->
+    <h3 style="margin-top:14px;">🎛 Guitar Tuner</h3>
+    <div class="tuner-wrap">
+      <div class="tuner-actions">
+        <button id="tunerStart" class="btn">🎤 Start Tuner</button>
+        <button id="tunerStop" class="btn btn-secondary">⏹ Stop</button>
+      </div>
+
+      <div class="tuner-readout">
+        <div class="tuner-note" id="tunerNote">—</div>
+        <div class="small" id="tunerFreq">— Hz</div>
+        <div class="small" id="tunerCents">— cents</div>
+        <div class="small" id="tunerHint">Tap “Start Tuner” and allow microphone.</div>
+      </div>
+
+      <canvas id="tunerCanvas" width="520" height="140"></canvas>
+    </div>
+
   </div>
 </section>
 
 <script src="app.js"></script>
+
+<!-- tiny tuner styling so you don't have to touch styles.css -->
+<style>
+  .tuner-wrap{ margin-top:10px; border:1px solid var(--line); border-radius:16px; padding:12px; background: rgba(255,255,255,.03); }
+  .tuner-actions{ display:flex; gap:10px; flex-wrap:wrap; margin-bottom:10px; }
+  .tuner-readout{ display:flex; align-items:baseline; gap:14px; flex-wrap:wrap; margin-bottom:10px; }
+  .tuner-note{ font-size:28px; font-weight:900; letter-spacing:.5px; }
+  #tunerCanvas{ width:100%; border:1px solid var(--line); border-radius:14px; background: rgba(0,0,0,.18); }
+</style>
+
 </body>
 </html>
