@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
-<link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#1db954">
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Alan's Chord App</title>
-<link rel="stylesheet" href="styles.css">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gig Builder</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
 <header class="topbar">
-  <h1>🎸 Alan's Chord App</h1>
+  <h1>🎸 Gig Builder</h1>
   <button id="btnStage" class="btn">🌓 Stage Mode</button>
 </header>
 
@@ -23,10 +23,10 @@
     <option value="90s">90s</option>
     <option value="00s">00s</option>
   </select>
-  
+
   <select id="artistFilter">
-  <option value="all">All Artists</option>
-</select>
+    <option value="all">All Artists</option>
+  </select>
 
   <select id="tagFilter">
     <option value="all">All Tags</option>
@@ -74,5 +74,6 @@
 </section>
 
 <script src="app.js"></script>
+
 </body>
 </html>
