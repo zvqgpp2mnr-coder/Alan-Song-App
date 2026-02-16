@@ -440,6 +440,7 @@ elSort?.addEventListener("change", applyFilters);
   setStageMode(localStorage.getItem("stageMode") === "1");
   refreshSavedSetsDropdown();
   renderSet();
+  updateTransposeUI();
 
   // Multi-JSON loader (cache-busted for iPad)
   Promise.all(["songs.json", "songs_extra_200_real_titles.json"].map(f =>
