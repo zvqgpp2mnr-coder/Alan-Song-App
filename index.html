@@ -1,3 +1,4 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html>
 <head>
@@ -15,10 +16,6 @@
 </header>
 
 <section class="controls">
-  <button id="transposeDown" class="btn btn-secondary">− Transpose</button>
-<div id="transposeLabel" class="small" style="align-self:center;">Transpose: 0</div>
-<button id="transposeUp" class="btn btn-secondary">+ Transpose</button>
-  <div id="songCounter" class="small"></div>
   <input type="text" id="search" placeholder="Search song or artist…">
 
   <select id="eraFilter">
@@ -49,6 +46,8 @@
   </select>
 
   <button id="btnBuild" class="btn">🤖 Build 90-min Set</button>
+
+  <div id="songCounter" class="small"></div>
 </section>
 
 <section class="grid">
@@ -68,6 +67,18 @@
 
     <ol id="currentSet"></ol>
 
+    <div id="teleprompter" class="teleprompter" style="display:none;">
+      <div class="tele-head">
+        <button id="prevSong" class="btn btn-secondary">◀ Prev</button>
+        <div class="tele-title">
+          <div id="activeSongTitle" class="tele-song"></div>
+          <div id="activeSongMeta" class="small"></div>
+        </div>
+        <button id="nextSong" class="btn btn-secondary">Next ▶</button>
+      </div>
+      <div id="activeSongChords" class="tele-chords"></div>
+    </div>
+
     <h3>💽 Saved Sets</h3>
     <div class="set-actions">
       <select id="savedSets"></select>
@@ -78,6 +89,5 @@
 </section>
 
 <script src="app.js"></script>
-
 </body>
 </html>
