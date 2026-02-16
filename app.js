@@ -105,18 +105,19 @@ function applyFilters() {
   const tag = elTag.value;
 
   let list = songs.filter(s => {
-    const matchesQ =
-      !q ||
-      (s.title || "").toLowerCase().includes(q) ||
-      (s.artist || "").toLowerCase().includes(q);
+  const matchesQ =
+    !q ||
+    (s.title || "").toLowerCase().includes(q) ||
+    (s.artist || "").toLowerCase().includes(q);
 
-    const matchesEra = (era === "all") || (s.era === era);
+  const matchesEra = (era === "all") || (s.era === era);
+  const matchesArtist = (artist === "all") || (s.artist === artist);
 
-    const tags = Array.isArray(s.tags) ? s.tags : [];
-    const matchesTag = (tag === "all") || tags.includes(tag);
+  const tags = Array.isArray(s.tags) ? s.tags : [];
+  const matchesTag = (tag === "all") || tags.includes(tag);
 
-    return matchesQ && matchesEra && matchesTag;
-  });
+  return matchesQ && matchesEra && matchesArtist && matchesTag;
+});
 
   const sort = elSort.value;
   if (sort === "popularityDesc") list.sort((a,b)=>(b.popularity||0)-(a.popularity||0));
