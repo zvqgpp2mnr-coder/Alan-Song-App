@@ -8,8 +8,9 @@ let currentSet = [];
 const elArtist = document.getElementById("artistFilter");
 const elSongList   = document.getElementById("songList");
 const elSearch     = document.getElementById("search");
-const elEra        = document.getElementById("eraFilter");
-const elTag        = document.getElementById("tagFilter");
+const era = elEra.value;
+const artist = elArtist.value;
+const tag = elTag.value;
 const elSort       = document.getElementById("sortBy");
 
 const elCurrentSet = document.getElementById("currentSet");
