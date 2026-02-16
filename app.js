@@ -453,7 +453,13 @@ elSort?.addEventListener("change", applyFilters);
   updateSongCounter(0);
 
   // EDIT THESE FILENAMES to match what you uploaded:
-  const FILES = ["songs.json", "songs_extra_200_real_titles.json"];
+
+  const FILES = [
+  "songs.json",
+  "songs_extra_200_real_titles.json",
+  "oasis_50_with_links.json"
+];
+  
 
   Promise.allSettled(FILES.map(f =>
     fetch(f + "?v=" + Date.now()).then(r => r.ok ? r.json() : [])
