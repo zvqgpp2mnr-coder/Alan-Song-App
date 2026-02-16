@@ -1,0 +1,10597 @@
+[
+  {
+    "id": "oasis-fade-in-out",
+    "artist": "Oasis",
+    "title": "Fade In-Out",
+    "era": "90s",
+    "key": "Em",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "oasis-listen-up",
+    "artist": "Oasis",
+    "title": "Listen Up",
+    "era": "90s",
+    "key": "F",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 81,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "oasis-the-shock-of-the-lightning",
+    "artist": "Oasis",
+    "title": "The Shock of the Lightning",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 96,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "oasis-bag-it-up",
+    "artist": "Oasis",
+    "title": "Bag It Up",
+    "era": "90s",
+    "key": "Am",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-turn-up-the-sun",
+    "artist": "Oasis",
+    "title": "Turn Up the Sun",
+    "era": "90s",
+    "key": "C",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 86,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "oasis-force-of-nature",
+    "artist": "Oasis",
+    "title": "Force of Nature",
+    "era": "90s",
+    "key": "E",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 77,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "oasis-sunday-morning-call",
+    "artist": "Oasis",
+    "title": "Sunday Morning Call",
+    "era": "90s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "oasis-who-feels-love",
+    "artist": "Oasis",
+    "title": "Who Feels Love?",
+    "era": "90s",
+    "key": "D",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 94,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-gas-panic",
+    "artist": "Oasis",
+    "title": "Gas Panic!",
+    "era": "90s",
+    "key": "F",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 94,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "oasis-shakermaker",
+    "artist": "Oasis",
+    "title": "Shakermaker",
+    "era": "90s",
+    "key": "F",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 88,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "oasis-up-in-the-sky",
+    "artist": "Oasis",
+    "title": "Up in the Sky",
+    "era": "90s",
+    "key": "Am",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "oasis-digsy-s-dinner",
+    "artist": "Oasis",
+    "title": "Digsy's Dinner",
+    "era": "90s",
+    "key": "G",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "oasis-married-with-children",
+    "artist": "Oasis",
+    "title": "Married with Children",
+    "era": "90s",
+    "key": "C",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "oasis-don-t-go-away",
+    "artist": "Oasis",
+    "title": "Don't Go Away",
+    "era": "90s",
+    "key": "Em",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-my-big-mouth",
+    "artist": "Oasis",
+    "title": "My Big Mouth",
+    "era": "90s",
+    "key": "E",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "oasis-be-here-now",
+    "artist": "Oasis",
+    "title": "Be Here Now",
+    "era": "90s",
+    "key": "F",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 95,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "oasis-all-around-the-world",
+    "artist": "Oasis",
+    "title": "All Around the World",
+    "era": "90s",
+    "key": "F",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-it-s-gettin-better-man",
+    "artist": "Oasis",
+    "title": "It's Gettin' Better (Man!!)",
+    "era": "90s",
+    "key": "E",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-rockin-chair",
+    "artist": "Oasis",
+    "title": "Rockin' Chair",
+    "era": "90s",
+    "key": "Em",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 93,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-step-out",
+    "artist": "Oasis",
+    "title": "Step Out",
+    "era": "90s",
+    "key": "C",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 86,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-headshrinker",
+    "artist": "Oasis",
+    "title": "Headshrinker",
+    "era": "90s",
+    "key": "A",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "oasis-stay-young",
+    "artist": "Oasis",
+    "title": "Stay Young",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 86,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "oasis-going-nowhere",
+    "artist": "Oasis",
+    "title": "Going Nowhere",
+    "era": "90s",
+    "key": "E",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "oasis-talk-tonight",
+    "artist": "Oasis",
+    "title": "Talk Tonight",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "oasis-bonehead-s-bank-holiday",
+    "artist": "Oasis",
+    "title": "Bonehead's Bank Holiday",
+    "era": "90s",
+    "key": "Am",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "acoustic",
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "blur-tender",
+    "artist": "Blur",
+    "title": "Tender",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 84,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "blur-no-distance-left-to-run",
+    "artist": "Blur",
+    "title": "No Distance Left to Run",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 88,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "blur-out-of-time",
+    "artist": "Blur",
+    "title": "Out of Time",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "blur-on-your-own",
+    "artist": "Blur",
+    "title": "On Your Own",
+    "era": "90s",
+    "key": "A",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "blur-m-o-r",
+    "artist": "Blur",
+    "title": "M.O.R.",
+    "era": "90s",
+    "key": "Am",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "blur-the-narcissist",
+    "artist": "Blur",
+    "title": "The Narcissist",
+    "era": "90s",
+    "key": "Am",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "blur-popscene",
+    "artist": "Blur",
+    "title": "Popscene",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "blur-bang",
+    "artist": "Blur",
+    "title": "Bang",
+    "era": "90s",
+    "key": "F",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "blur-she-s-so-high",
+    "artist": "Blur",
+    "title": "She's So High",
+    "era": "90s",
+    "key": "G",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "blur-badhead",
+    "artist": "Blur",
+    "title": "Badhead",
+    "era": "90s",
+    "key": "E",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "blur-jubilee",
+    "artist": "Blur",
+    "title": "Jubilee",
+    "era": "90s",
+    "key": "F",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "blur-mr-robinson-s-quango",
+    "artist": "Blur",
+    "title": "Mr Robinson's Quango",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "blur-sunday-sunday",
+    "artist": "Blur",
+    "title": "Sunday Sunday",
+    "era": "90s",
+    "key": "Em",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "blur-coping",
+    "artist": "Blur",
+    "title": "Coping",
+    "era": "90s",
+    "key": "Em",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 84,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "blur-advert",
+    "artist": "Blur",
+    "title": "Advert",
+    "era": "90s",
+    "key": "G",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "blur-colin-zeal",
+    "artist": "Blur",
+    "title": "Colin Zeal",
+    "era": "90s",
+    "key": "F",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 88,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "blur-he-thought-of-cars",
+    "artist": "Blur",
+    "title": "He Thought of Cars",
+    "era": "90s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "blur-you-re-so-great",
+    "artist": "Blur",
+    "title": "You're So Great",
+    "era": "90s",
+    "key": "D",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "blur-blue-jeans",
+    "artist": "Blur",
+    "title": "Blue Jeans",
+    "era": "90s",
+    "key": "Em",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 88,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "blur-the-debt-collector",
+    "artist": "Blur",
+    "title": "The Debt Collector",
+    "era": "90s",
+    "key": "Am",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "pulp-something-changed",
+    "artist": "Pulp",
+    "title": "Something Changed",
+    "era": "90s",
+    "key": "G",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "pulp-razzmatazz",
+    "artist": "Pulp",
+    "title": "Razzmatazz",
+    "era": "90s",
+    "key": "Am",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "pulp-like-a-friend",
+    "artist": "Pulp",
+    "title": "Like a Friend",
+    "era": "90s",
+    "key": "Em",
+    "capo": 2,
+    "energy": 3,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "pulp-underwear",
+    "artist": "Pulp",
+    "title": "Underwear",
+    "era": "90s",
+    "key": "E",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "pulp-f-e-e-l-i-n-g-c-a-l-l-e-d-l-o-v-e",
+    "artist": "Pulp",
+    "title": "F.E.E.L.I.N.G.C.A.L.L.E.D.L.O.V.E.",
+    "era": "90s",
+    "key": "Am",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 77,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "pulp-a-little-soul",
+    "artist": "Pulp",
+    "title": "A Little Soul",
+    "era": "90s",
+    "key": "C",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "pulp-the-fear",
+    "artist": "Pulp",
+    "title": "The Fear",
+    "era": "90s",
+    "key": "F",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 96,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "pulp-this-is-hardcore",
+    "artist": "Pulp",
+    "title": "This Is Hardcore",
+    "era": "90s",
+    "key": "C",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "pulp-help-the-aged",
+    "artist": "Pulp",
+    "title": "Help the Aged",
+    "era": "90s",
+    "key": "G",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "pulp-mis-shapes",
+    "artist": "Pulp",
+    "title": "Mis-Shapes",
+    "era": "90s",
+    "key": "C",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "pulp-do-you-remember-the-first-time",
+    "artist": "Pulp",
+    "title": "Do You Remember the First Time?",
+    "era": "90s",
+    "key": "C",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "pulp-babies",
+    "artist": "Pulp",
+    "title": "Babies",
+    "era": "90s",
+    "key": "E",
+    "capo": 2,
+    "energy": 3,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "pulp-lipgloss",
+    "artist": "Pulp",
+    "title": "Lipgloss",
+    "era": "90s",
+    "key": "Am",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "pulp-pencil-skirt",
+    "artist": "Pulp",
+    "title": "Pencil Skirt",
+    "era": "90s",
+    "key": "C",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 83,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "pulp-bar-italia",
+    "artist": "Pulp",
+    "title": "Bar Italia",
+    "era": "90s",
+    "key": "A",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 81,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "pulp-bad-cover-version",
+    "artist": "Pulp",
+    "title": "Bad Cover Version",
+    "era": "90s",
+    "key": "C",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 76,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-the-rolling-people",
+    "artist": "The Verve",
+    "title": "The Rolling People",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 95,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-this-is-music",
+    "artist": "The Verve",
+    "title": "This Is Music",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-on-your-own",
+    "artist": "The Verve",
+    "title": "On Your Own",
+    "era": "90s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-blue",
+    "artist": "The Verve",
+    "title": "Blue",
+    "era": "90s",
+    "key": "Em",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-slide-away",
+    "artist": "The Verve",
+    "title": "Slide Away",
+    "era": "90s",
+    "key": "Em",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-weeping-willow",
+    "artist": "The Verve",
+    "title": "Weeping Willow",
+    "era": "90s",
+    "key": "E",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-the-sun-the-sea",
+    "artist": "The Verve",
+    "title": "The Sun, The Sea",
+    "era": "90s",
+    "key": "G",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-come-on",
+    "artist": "The Verve",
+    "title": "Come On",
+    "era": "90s",
+    "key": "G",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-shes-a-superstar",
+    "artist": "The Verve",
+    "title": "She’s a Superstar",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-all-in-the-mind",
+    "artist": "The Verve",
+    "title": "All in the Mind",
+    "era": "90s",
+    "key": "Am",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-rather-be",
+    "artist": "The Verve",
+    "title": "Rather Be",
+    "era": "90s",
+    "key": "F",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-love-is-noise",
+    "artist": "The Verve",
+    "title": "Love Is Noise",
+    "era": "90s",
+    "key": "E",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "the-verve-sit-and-wonder",
+    "artist": "The Verve",
+    "title": "Sit and Wonder",
+    "era": "90s",
+    "key": "C",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-leave-before-the-lights-come-on",
+    "artist": "Arctic Monkeys",
+    "title": "Leave Before the Lights Come On",
+    "era": "00s",
+    "key": "G",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-from-the-ritz-to-the-rubble",
+    "artist": "Arctic Monkeys",
+    "title": "From the Ritz to the Rubble",
+    "era": "00s",
+    "key": "G",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-still-take-you-home",
+    "artist": "Arctic Monkeys",
+    "title": "Still Take You Home",
+    "era": "00s",
+    "key": "F",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-dancing-shoes",
+    "artist": "Arctic Monkeys",
+    "title": "Dancing Shoes",
+    "era": "00s",
+    "key": "D",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-balaclava",
+    "artist": "Arctic Monkeys",
+    "title": "Balaclava",
+    "era": "00s",
+    "key": "F",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 81,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-old-yellow-bricks",
+    "artist": "Arctic Monkeys",
+    "title": "Old Yellow Bricks",
+    "era": "00s",
+    "key": "C",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-if-you-were-there-beware",
+    "artist": "Arctic Monkeys",
+    "title": "If You Were There, Beware",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-do-me-a-favour",
+    "artist": "Arctic Monkeys",
+    "title": "Do Me a Favour",
+    "era": "00s",
+    "key": "F",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 84,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-the-view-from-the-afternoon",
+    "artist": "Arctic Monkeys",
+    "title": "The View from the Afternoon",
+    "era": "00s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-perhaps-vampires-is-a-bit-strong-but",
+    "artist": "Arctic Monkeys",
+    "title": "Perhaps Vampires Is a Bit Strong But...",
+    "era": "00s",
+    "key": "D",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-my-propeller",
+    "artist": "Arctic Monkeys",
+    "title": "My Propeller",
+    "era": "00s",
+    "key": "D",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-secret-door",
+    "artist": "Arctic Monkeys",
+    "title": "Secret Door",
+    "era": "00s",
+    "key": "G",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-potion-approaching",
+    "artist": "Arctic Monkeys",
+    "title": "Potion Approaching",
+    "era": "00s",
+    "key": "D",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 86,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-don-t-sit-down-cause-i-ve-moved-your-chair",
+    "artist": "Arctic Monkeys",
+    "title": "Don't Sit Down 'Cause I've Moved Your Chair",
+    "era": "00s",
+    "key": "Em",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-r-u-mine",
+    "artist": "Arctic Monkeys",
+    "title": "R U Mine?",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-one-for-the-road",
+    "artist": "Arctic Monkeys",
+    "title": "One for the Road",
+    "era": "00s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 86,
+    "tags": [
+      "acoustic",
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-knee-socks",
+    "artist": "Arctic Monkeys",
+    "title": "Knee Socks",
+    "era": "00s",
+    "key": "C",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 84,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-i-wanna-be-yours",
+    "artist": "Arctic Monkeys",
+    "title": "I Wanna Be Yours",
+    "era": "00s",
+    "key": "E",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 95,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-do-i-wanna-know-acoustic",
+    "artist": "Arctic Monkeys",
+    "title": "Do I Wanna Know? (Acoustic)",
+    "era": "00s",
+    "key": "Am",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 85,
+    "tags": [
+      "acoustic",
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "arctic-monkeys-no-1-party-anthem",
+    "artist": "Arctic Monkeys",
+    "title": "No. 1 Party Anthem",
+    "era": "00s",
+    "key": "A",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-where-did-all-the-love-go",
+    "artist": "Kasabian",
+    "title": "Where Did All the Love Go?",
+    "era": "00s",
+    "key": "G",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-re-wired",
+    "artist": "Kasabian",
+    "title": "Re-Wired",
+    "era": "00s",
+    "key": "Em",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-la-fee-verte",
+    "artist": "Kasabian",
+    "title": "La Fée Verte",
+    "era": "00s",
+    "key": "F",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 94,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-vlad-the-impaler",
+    "artist": "Kasabian",
+    "title": "Vlad the Impaler",
+    "era": "00s",
+    "key": "D",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-bumblebeee",
+    "artist": "Kasabian",
+    "title": "Bumblebeee",
+    "era": "00s",
+    "key": "G",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 76,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-switchblade-smiles",
+    "artist": "Kasabian",
+    "title": "Switchblade Smiles",
+    "era": "00s",
+    "key": "Em",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-reason-is-treason",
+    "artist": "Kasabian",
+    "title": "Reason Is Treason",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 84,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-processed-beats",
+    "artist": "Kasabian",
+    "title": "Processed Beats",
+    "era": "00s",
+    "key": "E",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 88,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-cutt-off",
+    "artist": "Kasabian",
+    "title": "Cutt Off",
+    "era": "00s",
+    "key": "F",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 83,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-doberman",
+    "artist": "Kasabian",
+    "title": "Doberman",
+    "era": "00s",
+    "key": "A",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-stuntman",
+    "artist": "Kasabian",
+    "title": "Stuntman",
+    "era": "00s",
+    "key": "A",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-bow",
+    "artist": "Kasabian",
+    "title": "Bow",
+    "era": "00s",
+    "key": "E",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 86,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-youre-in-love-with-a-psycho",
+    "artist": "Kasabian",
+    "title": "You’re in Love with a Psycho",
+    "era": "00s",
+    "key": "F",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 94,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-comeback-kid",
+    "artist": "Kasabian",
+    "title": "Comeback Kid",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-ill-ray-the-king",
+    "artist": "Kasabian",
+    "title": "Ill Ray (The King)",
+    "era": "00s",
+    "key": "D",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 81,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "kasabian-bless-this-acid-house",
+    "artist": "Kasabian",
+    "title": "Bless This Acid House",
+    "era": "00s",
+    "key": "G",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 76,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-smile-like-you-mean-it",
+    "artist": "The Killers",
+    "title": "Smile Like You Mean It",
+    "era": "00s",
+    "key": "Am",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 93,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-jenny-was-a-friend-of-mine",
+    "artist": "The Killers",
+    "title": "Jenny Was a Friend of Mine",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 99,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-all-these-things-that-i-ve-done",
+    "artist": "The Killers",
+    "title": "All These Things That I've Done",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 90,
+    "tags": [
+      "acoustic",
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-for-reasons-unknown",
+    "artist": "The Killers",
+    "title": "For Reasons Unknown",
+    "era": "00s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-bones",
+    "artist": "The Killers",
+    "title": "Bones",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 95,
+    "tags": [
+      "acoustic",
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-this-river-is-wild",
+    "artist": "The Killers",
+    "title": "This River Is Wild",
+    "era": "00s",
+    "key": "F",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 98,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-tranquilize",
+    "artist": "The Killers",
+    "title": "Tranquilize",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 90,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-spaceman",
+    "artist": "The Killers",
+    "title": "Spaceman",
+    "era": "00s",
+    "key": "A",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 90,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-a-dustland-fairytale",
+    "artist": "The Killers",
+    "title": "A Dustland Fairytale",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 86,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-runaways",
+    "artist": "The Killers",
+    "title": "Runaways",
+    "era": "00s",
+    "key": "F",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-miss-atomic-bomb",
+    "artist": "The Killers",
+    "title": "Miss Atomic Bomb",
+    "era": "00s",
+    "key": "C",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 89,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-the-man",
+    "artist": "The Killers",
+    "title": "The Man",
+    "era": "00s",
+    "key": "D",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 93,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-shot-at-the-night",
+    "artist": "The Killers",
+    "title": "Shot at the Night",
+    "era": "00s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 97,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-just-another-girl",
+    "artist": "The Killers",
+    "title": "Just Another Girl",
+    "era": "00s",
+    "key": "G",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 95,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "the-killers-change-your-mind",
+    "artist": "The Killers",
+    "title": "Change Your Mind",
+    "era": "00s",
+    "key": "A",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 96,
+    "tags": [
+      "party",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-closer",
+    "artist": "Kings of Leon",
+    "title": "Closer",
+    "era": "00s",
+    "key": "A",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 75,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-crawl",
+    "artist": "Kings of Leon",
+    "title": "Crawl",
+    "era": "00s",
+    "key": "E",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 83,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-revelry",
+    "artist": "Kings of Leon",
+    "title": "Revelry",
+    "era": "00s",
+    "key": "G",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 91,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-pyro",
+    "artist": "Kings of Leon",
+    "title": "Pyro",
+    "era": "00s",
+    "key": "C",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-radioactive",
+    "artist": "Kings of Leon",
+    "title": "Radioactive",
+    "era": "00s",
+    "key": "Bb",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 95,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-manhattan",
+    "artist": "Kings of Leon",
+    "title": "Manhattan",
+    "era": "00s",
+    "key": "E",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 76,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-charmer",
+    "artist": "Kings of Leon",
+    "title": "Charmer",
+    "era": "00s",
+    "key": "G",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-the-bucket",
+    "artist": "Kings of Leon",
+    "title": "The Bucket",
+    "era": "00s",
+    "key": "G",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 77,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-fans",
+    "artist": "Kings of Leon",
+    "title": "Fans",
+    "era": "00s",
+    "key": "C",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 82,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-on-call",
+    "artist": "Kings of Leon",
+    "title": "On Call",
+    "era": "00s",
+    "key": "E",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 90,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-molly-s-chambers",
+    "artist": "Kings of Leon",
+    "title": "Molly's Chambers",
+    "era": "00s",
+    "key": "A",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "kings-of-leon-four-kicks",
+    "artist": "Kings of Leon",
+    "title": "Four Kicks",
+    "era": "00s",
+    "key": "Am",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 83,
+    "tags": [
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-maybe-tomorrow",
+    "artist": "Stereophonics",
+    "title": "Maybe Tomorrow",
+    "era": "90s",
+    "key": "G",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-have-a-nice-day",
+    "artist": "Stereophonics",
+    "title": "Have a Nice Day",
+    "era": "90s",
+    "key": "A",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-mr-writer",
+    "artist": "Stereophonics",
+    "title": "Mr. Writer",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-handbags-and-gladrags",
+    "artist": "Stereophonics",
+    "title": "Handbags and Gladrags",
+    "era": "90s",
+    "key": "C",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-indian-summer",
+    "artist": "Stereophonics",
+    "title": "Indian Summer",
+    "era": "90s",
+    "key": "C",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-traffic",
+    "artist": "Stereophonics",
+    "title": "Traffic",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-pick-a-part-that-s-new",
+    "artist": "Stereophonics",
+    "title": "Pick a Part That's New",
+    "era": "90s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-rewind",
+    "artist": "Stereophonics",
+    "title": "Rewind",
+    "era": "90s",
+    "key": "Em",
+    "capo": 2,
+    "energy": 3,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-just-looking",
+    "artist": "Stereophonics",
+    "title": "Just Looking",
+    "era": "90s",
+    "key": "Em",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-it-means-nothing",
+    "artist": "Stereophonics",
+    "title": "It Means Nothing",
+    "era": "90s",
+    "key": "E",
+    "capo": 2,
+    "energy": 3,
+    "popularity": 83,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-beerbottle",
+    "artist": "Stereophonics",
+    "title": "Beerbottle",
+    "era": "90s",
+    "key": "D",
+    "capo": 2,
+    "energy": 3,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "stereophonics-a-thousand-trees",
+    "artist": "Stereophonics",
+    "title": "A Thousand Trees",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "travis-sing",
+    "artist": "Travis",
+    "title": "Sing",
+    "era": "90s",
+    "key": "Em",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "travis-side",
+    "artist": "Travis",
+    "title": "Side",
+    "era": "90s",
+    "key": "A",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 81,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "travis-flowers-in-the-window",
+    "artist": "Travis",
+    "title": "Flowers in the Window",
+    "era": "90s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 83,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "travis-why-does-it-always-rain-on-me-live",
+    "artist": "Travis",
+    "title": "Why Does It Always Rain on Me? (Live)",
+    "era": "90s",
+    "key": "F",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 81,
+    "tags": [
+      "acoustic",
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "travis-closer",
+    "artist": "Travis",
+    "title": "Closer",
+    "era": "90s",
+    "key": "G",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "travis-the-beautiful-occupation",
+    "artist": "Travis",
+    "title": "The Beautiful Occupation",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 1,
+    "energy": 5,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "travis-love-will-come-through",
+    "artist": "Travis",
+    "title": "Love Will Come Through",
+    "era": "90s",
+    "key": "A",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 79,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "travis-the-fear",
+    "artist": "Travis",
+    "title": "The Fear",
+    "era": "90s",
+    "key": "D",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "travis-selfish-jean",
+    "artist": "Travis",
+    "title": "Selfish Jean",
+    "era": "90s",
+    "key": "C",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "travis-re-offender",
+    "artist": "Travis",
+    "title": "Re-Offender",
+    "era": "90s",
+    "key": "E",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 85,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "travis-walking-in-the-sun",
+    "artist": "Travis",
+    "title": "Walking in the Sun",
+    "era": "90s",
+    "key": "Em",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 78,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-you-re-all-i-have",
+    "artist": "Snow Patrol",
+    "title": "You're All I Have",
+    "era": "00s",
+    "key": "Em",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-spitting-games",
+    "artist": "Snow Patrol",
+    "title": "Spitting Games",
+    "era": "00s",
+    "key": "E",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 81,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-shut-your-eyes",
+    "artist": "Snow Patrol",
+    "title": "Shut Your Eyes",
+    "era": "00s",
+    "key": "F",
+    "capo": 4,
+    "energy": 5,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-just-say-yes",
+    "artist": "Snow Patrol",
+    "title": "Just Say Yes",
+    "era": "00s",
+    "key": "D",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-set-the-fire-to-the-third-bar",
+    "artist": "Snow Patrol",
+    "title": "Set the Fire to the Third Bar",
+    "era": "00s",
+    "key": "E",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-signal-fire",
+    "artist": "Snow Patrol",
+    "title": "Signal Fire",
+    "era": "00s",
+    "key": "Am",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-hands-open",
+    "artist": "Snow Patrol",
+    "title": "Hands Open",
+    "era": "00s",
+    "key": "E",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 96,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-called-out-in-the-dark",
+    "artist": "Snow Patrol",
+    "title": "Called Out in the Dark",
+    "era": "00s",
+    "key": "Em",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-in-the-end",
+    "artist": "Snow Patrol",
+    "title": "In the End",
+    "era": "00s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "snow-patrol-make-this-go-on-forever",
+    "artist": "Snow Patrol",
+    "title": "Make This Go On Forever",
+    "era": "00s",
+    "key": "D",
+    "capo": 0,
+    "energy": 5,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-australia",
+    "artist": "Manic Street Preachers",
+    "title": "Australia",
+    "era": "90s",
+    "key": "G",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-kevin-carter",
+    "artist": "Manic Street Preachers",
+    "title": "Kevin Carter",
+    "era": "90s",
+    "key": "F",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 82,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-you-love-us",
+    "artist": "Manic Street Preachers",
+    "title": "You Love Us",
+    "era": "90s",
+    "key": "A",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 86,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-faster",
+    "artist": "Manic Street Preachers",
+    "title": "Faster",
+    "era": "90s",
+    "key": "Am",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 95,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-you-stole-the-sun-from-my-heart",
+    "artist": "Manic Street Preachers",
+    "title": "You Stole the Sun from My Heart",
+    "era": "90s",
+    "key": "F",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-ocean-spray",
+    "artist": "Manic Street Preachers",
+    "title": "Ocean Spray",
+    "era": "90s",
+    "key": "F",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 98,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-everything-must-go",
+    "artist": "Manic Street Preachers",
+    "title": "Everything Must Go",
+    "era": "90s",
+    "key": "Em",
+    "capo": 2,
+    "energy": 3,
+    "popularity": 93,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-the-masses-against-the-classes",
+    "artist": "Manic Street Preachers",
+    "title": "The Masses Against the Classes",
+    "era": "90s",
+    "key": "E",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 84,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-autumnsong",
+    "artist": "Manic Street Preachers",
+    "title": "Autumnsong",
+    "era": "90s",
+    "key": "F",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 75,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-your-love-alone-is-not-enough",
+    "artist": "Manic Street Preachers",
+    "title": "Your Love Alone Is Not Enough",
+    "era": "90s",
+    "key": "C",
+    "capo": 4,
+    "energy": 3,
+    "popularity": 88,
+    "tags": [
+      "acoustic",
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "manic-street-preachers-motorcycle-emptiness",
+    "artist": "Manic Street Preachers",
+    "title": "Motorcycle Emptiness",
+    "era": "90s",
+    "key": "D",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 90,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-better-day",
+    "artist": "Ocean Colour Scene",
+    "title": "Better Day",
+    "era": "90s",
+    "key": "C",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 83,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-hundred-mile-high-city",
+    "artist": "Ocean Colour Scene",
+    "title": "Hundred Mile High City",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 97,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-the-circle",
+    "artist": "Ocean Colour Scene",
+    "title": "The Circle",
+    "era": "90s",
+    "key": "D",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 91,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-it-s-my-shadow",
+    "artist": "Ocean Colour Scene",
+    "title": "It's My Shadow",
+    "era": "90s",
+    "key": "C",
+    "capo": 3,
+    "energy": 4,
+    "popularity": 87,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "verse": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "preChorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "chorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "bridge": [
+        "G",
+        "Am",
+        "F",
+        "C"
+      ],
+      "outro": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-profit-in-peace",
+    "artist": "Ocean Colour Scene",
+    "title": "Profit in Peace",
+    "era": "90s",
+    "key": "C",
+    "capo": 0,
+    "energy": 3,
+    "popularity": 93,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "verse": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "preChorus": [
+        "C",
+        "Dm",
+        "F",
+        "Bb"
+      ],
+      "chorus": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ],
+      "bridge": [
+        "Bb",
+        "C",
+        "Dm",
+        "F"
+      ],
+      "outro": [
+        "F",
+        "Bb",
+        "C",
+        "Dm"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-travellers-tune",
+    "artist": "Ocean Colour Scene",
+    "title": "Travellers Tune",
+    "era": "90s",
+    "key": "F",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 96,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-the-riverboat-song",
+    "artist": "Ocean Colour Scene",
+    "title": "The Riverboat Song",
+    "era": "90s",
+    "key": "F",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 94,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-july",
+    "artist": "Ocean Colour Scene",
+    "title": "July",
+    "era": "90s",
+    "key": "D",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 95,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "ocean-colour-scene-get-blown-away",
+    "artist": "Ocean Colour Scene",
+    "title": "Get Blown Away",
+    "era": "90s",
+    "key": "Am",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-up-the-bracket",
+    "artist": "The Libertines",
+    "title": "Up the Bracket",
+    "era": "90s",
+    "key": "C",
+    "capo": 1,
+    "energy": 4,
+    "popularity": 94,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "verse": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "preChorus": [
+        "C",
+        "G",
+        "Am",
+        "F"
+      ],
+      "chorus": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ],
+      "bridge": [
+        "F",
+        "C",
+        "G",
+        "Am"
+      ],
+      "outro": [
+        "Am",
+        "F",
+        "C",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-what-katie-did",
+    "artist": "The Libertines",
+    "title": "What Katie Did",
+    "era": "90s",
+    "key": "D",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 80,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "verse": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "preChorus": [
+        "Bm",
+        "G",
+        "D",
+        "A"
+      ],
+      "chorus": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ],
+      "bridge": [
+        "A",
+        "Bm",
+        "G",
+        "D"
+      ],
+      "outro": [
+        "D",
+        "A",
+        "Bm",
+        "G"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-boys-in-the-band",
+    "artist": "The Libertines",
+    "title": "Boys in the Band",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 0,
+    "energy": 4,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-the-good-old-days",
+    "artist": "The Libertines",
+    "title": "The Good Old Days",
+    "era": "90s",
+    "key": "Am",
+    "capo": 4,
+    "energy": 4,
+    "popularity": 77,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-what-became-of-the-likely-lads",
+    "artist": "The Libertines",
+    "title": "What Became of the Likely Lads",
+    "era": "90s",
+    "key": "E",
+    "capo": 3,
+    "energy": 5,
+    "popularity": 95,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-can-t-stand-me-now",
+    "artist": "The Libertines",
+    "title": "Can't Stand Me Now",
+    "era": "90s",
+    "key": "Bb",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 77,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "verse": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "preChorus": [
+        "C#m",
+        "A",
+        "E",
+        "B"
+      ],
+      "chorus": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ],
+      "bridge": [
+        "B",
+        "C#m",
+        "A",
+        "E"
+      ],
+      "outro": [
+        "E",
+        "B",
+        "C#m",
+        "A"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-music-when-the-lights-go-out",
+    "artist": "The Libertines",
+    "title": "Music When the Lights Go Out",
+    "era": "90s",
+    "key": "F",
+    "capo": 2,
+    "energy": 4,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "verse": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "preChorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "chorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "bridge": [
+        "D",
+        "Em",
+        "C",
+        "G"
+      ],
+      "outro": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-time-for-heroes",
+    "artist": "The Libertines",
+    "title": "Time for Heroes",
+    "era": "90s",
+    "key": "D",
+    "capo": 1,
+    "energy": 3,
+    "popularity": 92,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "verse": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "preChorus": [
+        "G",
+        "D",
+        "Em",
+        "C"
+      ],
+      "chorus": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ],
+      "bridge": [
+        "C",
+        "G",
+        "D",
+        "Em"
+      ],
+      "outro": [
+        "Em",
+        "C",
+        "G",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-gunga-din",
+    "artist": "The Libertines",
+    "title": "Gunga Din",
+    "era": "90s",
+    "key": "E",
+    "capo": 3,
+    "energy": 3,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  },
+  {
+    "id": "the-libertines-you-re-my-waterloo",
+    "artist": "The Libertines",
+    "title": "You're My Waterloo",
+    "era": "90s",
+    "key": "C",
+    "capo": 2,
+    "energy": 5,
+    "popularity": 89,
+    "tags": [
+      "indie",
+      "pub"
+    ],
+    "spotifyId": "placeholder",
+    "chords": {
+      "intro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "verse": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "preChorus": [
+        "F#m",
+        "D",
+        "A",
+        "E"
+      ],
+      "chorus": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ],
+      "bridge": [
+        "E",
+        "F#m",
+        "D",
+        "A"
+      ],
+      "outro": [
+        "A",
+        "E",
+        "F#m",
+        "D"
+      ]
+    }
+  }
+]
