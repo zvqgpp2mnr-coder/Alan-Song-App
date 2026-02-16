@@ -5,6 +5,7 @@ let songs = [];
 let currentSet = [];
 
 // ---- DOM ----
+const elArtist = document.getElementById("artistFilter");
 const elSongList   = document.getElementById("songList");
 const elSearch     = document.getElementById("search");
 const elEra        = document.getElementById("eraFilter");
