@@ -327,6 +327,17 @@ function refreshSavedSetsDropdown() {
     ? names.map(n => `<option value="${esc(n)}">${esc(n)}</option>`).join("")
     : `<option value="">(no saved sets)</option>`;
 }
+btnTransposeDown?.addEventListener("click", () => {
+  transposeSteps = clampTranspose(transposeSteps - 1);
+  updateTransposeUI();
+  applyFilters(); // re-render list with new chords
+});
+
+btnTransposeUp?.addEventListener("click", () => {
+  transposeSteps = clampTranspose(transposeSteps + 1);
+  updateTransposeUI();
+  applyFilters();
+});
 
 btnSaveSet?.addEventListener("click", () => {
   const name = (elSetName?.value || "").trim();
