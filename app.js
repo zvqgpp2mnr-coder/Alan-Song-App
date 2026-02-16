@@ -1,9 +1,10 @@
-// app.js (UPDATED)
+// app.js (UPDATED with Guitar Tuner)
 // - Shows 🎸 Open Chords button when song.chordLink exists (library + teleprompter)
 // - Loads multiple JSON files
 // - Filters + sorting + song counter
 // - Hide all songs on home until search/filter
 // - Setlist teleprompter: tap song to activate, big chords view below, swipe prev/next
+// - ✅ Guitar tuner (mic pitch detection + needle meter)
 
 let songs = [];
 let currentSet = [];
@@ -38,6 +39,16 @@ const elActiveSongChords   = document.getElementById("activeSongChords");
 const btnPrevSong          = document.getElementById("prevSong");
 const btnNextSong          = document.getElementById("nextSong");
 const elOpenActiveChords   = document.getElementById("openActiveChords");
+
+// ✅ Tuner DOM
+const btnTunerStart = document.getElementById("tunerStart");
+const btnTunerStop  = document.getElementById("tunerStop");
+const elTunerNote   = document.getElementById("tunerNote");
+const elTunerFreq   = document.getElementById("tunerFreq");
+const elTunerCents  = document.getElementById("tunerCents");
+const elTunerHint   = document.getElementById("tunerHint");
+const tunerCanvas   = document.getElementById("tunerCanvas");
+const tunerCtx      = tunerCanvas?.getContext?.("2d");
 
 // ---- utils ----
 function esc(str) {
@@ -101,7 +112,6 @@ function setActiveSong(index) {
   if (elActiveSongMeta) elActiveSongMeta.textContent = `Key ${s.key} • Capo ${s.capo} • ${activeSetIndex+1}/${currentSet.length}`;
   if (elActiveSongChords) elActiveSongChords.innerHTML = renderChords(s);
 
-  // External chords link (e.g., Oasis pack)
   if (elOpenActiveChords) {
     if (s.chordLink) {
       elOpenActiveChords.style.display = "inline-block";
@@ -112,7 +122,6 @@ function setActiveSong(index) {
     }
   }
 
-  // highlight active list item
   document.querySelectorAll("#currentSet li").forEach(li => li.classList.remove("active"));
   const activeLi = document.querySelector(`#currentSet li[data-index="${activeSetIndex}"]`);
   if (activeLi) activeLi.classList.add("active");
@@ -460,6 +469,214 @@ elArtist?.addEventListener("change", applyFilters);
 elTag?.addEventListener("change", applyFilters);
 elSort?.addEventListener("change", applyFilters);
 
+//
+// ✅ GUITAR TUNER (Web Audio pitch detection)
+//
+let tunerAudioCtx = null;
+let tunerAnalyser = null;
+let tunerSource = null;
+let tunerStream = null;
+let tunerRAF = null;
+let tunerBuf = null;
+
+const NOTE_NAMES = ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"];
+
+function freqToMidi(f) {
+  return Math.round(69 + 12 * Math.log2(f / 440));
+}
+function midiToFreq(m) {
+  return 440 * Math.pow(2, (m - 69) / 12);
+}
+function midiToName(m) {
+  const n = NOTE_NAMES[(m % 12 + 12) % 12];
+  const octave = Math.floor(m / 12) - 1;
+  return `${n}${octave}`;
+}
+function centsOff(f, targetF) {
+  return 1200 * Math.log2(f / targetF);
+}
+
+// Autocorrelation pitch detection (good enough for guitar)
+function autoCorrelate(buffer, sampleRate) {
+  // Remove DC offset
+  let mean = 0;
+  for (let i = 0; i < buffer.length; i++) mean += buffer[i];
+  mean /= buffer.length;
+  for (let i = 0; i < buffer.length; i++) buffer[i] -= mean;
+
+  // RMS to check signal
+  let rms = 0;
+  for (let i = 0; i < buffer.length; i++) rms += buffer[i] * buffer[i];
+  rms = Math.sqrt(rms / buffer.length);
+  if (rms < 0.01) return -1; // too quiet
+
+  // Autocorrelation
+  const SIZE = buffer.length;
+  const MAX_SAMPLES = Math.floor(SIZE / 2);
+  let bestOffset = -1;
+  let bestCorr = 0;
+
+  for (let offset = 20; offset < MAX_SAMPLES; offset++) {
+    let corr = 0;
+    for (let i = 0; i < MAX_SAMPLES; i++) {
+      corr += buffer[i] * buffer[i + offset];
+    }
+    if (corr > bestCorr) {
+      bestCorr = corr;
+      bestOffset = offset;
+    }
+  }
+
+  if (bestOffset === -1) return -1;
+  const freq = sampleRate / bestOffset;
+  if (freq < 60 || freq > 1200) return -1;
+  return freq;
+}
+
+function drawTunerMeter(cents) {
+  if (!tunerCtx || !tunerCanvas) return;
+
+  const w = tunerCanvas.width;
+  const h = tunerCanvas.height;
+  tunerCtx.clearRect(0, 0, w, h);
+
+  // background
+  tunerCtx.fillStyle = "rgba(0,0,0,0.25)";
+  tunerCtx.fillRect(0, 0, w, h);
+
+  // center line
+  const cx = w / 2;
+  tunerCtx.strokeStyle = "rgba(255,255,255,0.35)";
+  tunerCtx.lineWidth = 2;
+  tunerCtx.beginPath();
+  tunerCtx.moveTo(cx, 12);
+  tunerCtx.lineTo(cx, h - 12);
+  tunerCtx.stroke();
+
+  // ticks
+  tunerCtx.strokeStyle = "rgba(255,255,255,0.20)";
+  tunerCtx.lineWidth = 1;
+  for (let t = -50; t <= 50; t += 10) {
+    const x = cx + (t / 50) * (w * 0.40);
+    tunerCtx.beginPath();
+    tunerCtx.moveTo(x, h - 34);
+    tunerCtx.lineTo(x, h - 18);
+    tunerCtx.stroke();
+  }
+
+  // clamp cents to [-50..50] for needle
+  const c = Math.max(-50, Math.min(50, cents));
+  const x = cx + (c / 50) * (w * 0.40);
+
+  // needle color: on-pitch = green-ish, otherwise white
+  const onPitch = Math.abs(cents) <= 5;
+  tunerCtx.strokeStyle = onPitch ? "rgba(29,185,84,0.95)" : "rgba(255,255,255,0.85)";
+  tunerCtx.lineWidth = 4;
+
+  tunerCtx.beginPath();
+  tunerCtx.moveTo(x, 18);
+  tunerCtx.lineTo(x, h - 44);
+  tunerCtx.stroke();
+
+  // labels
+  tunerCtx.fillStyle = "rgba(255,255,255,0.65)";
+  tunerCtx.font = "14px system-ui, -apple-system, Segoe UI, Roboto, Arial";
+  tunerCtx.fillText("Flat (tune up)", 16, h - 14);
+  const txt = "Sharp (tune down)";
+  const tw = tunerCtx.measureText(txt).width;
+  tunerCtx.fillText(txt, w - tw - 16, h - 14);
+
+  // on pitch text
+  if (onPitch) {
+    tunerCtx.fillStyle = "rgba(29,185,84,0.95)";
+    tunerCtx.font = "16px system-ui, -apple-system, Segoe UI, Roboto, Arial";
+    const ok = "ON PITCH";
+    const okW = tunerCtx.measureText(ok).width;
+    tunerCtx.fillText(ok, cx - okW/2, 26);
+  }
+}
+
+function tunerLoop() {
+  if (!tunerAnalyser || !tunerAudioCtx || !tunerBuf) return;
+
+  tunerAnalyser.getFloatTimeDomainData(tunerBuf);
+  const f = autoCorrelate(tunerBuf, tunerAudioCtx.sampleRate);
+
+  if (f > 0) {
+    const midi = freqToMidi(f);
+    const target = midiToFreq(midi);
+    const cents = centsOff(f, target);
+
+    if (elTunerNote) elTunerNote.textContent = midiToName(midi);
+    if (elTunerFreq) elTunerFreq.textContent = `${f.toFixed(1)} Hz`;
+    if (elTunerCents) elTunerCents.textContent = `${cents.toFixed(1)} cents`;
+    if (elTunerHint) elTunerHint.textContent = Math.abs(cents) <= 5 ? "✅ On pitch" : (cents < 0 ? "⬅ Flat: tune up" : "➡ Sharp: tune down");
+
+    drawTunerMeter(cents);
+  } else {
+    if (elTunerNote) elTunerNote.textContent = "—";
+    if (elTunerFreq) elTunerFreq.textContent = "— Hz";
+    if (elTunerCents) elTunerCents.textContent = "— cents";
+    if (elTunerHint) elTunerHint.textContent = "Play a single string clearly…";
+    drawTunerMeter(0);
+  }
+
+  tunerRAF = requestAnimationFrame(tunerLoop);
+}
+
+async function startTuner() {
+  try {
+    if (elTunerHint) elTunerHint.textContent = "Requesting microphone…";
+
+    tunerStream = await navigator.mediaDevices.getUserMedia({
+      audio: { echoCancellation: false, noiseSuppression: false, autoGainControl: false }
+    });
+
+    tunerAudioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    tunerAnalyser = tunerAudioCtx.createAnalyser();
+    tunerAnalyser.fftSize = 2048;
+
+    tunerSource = tunerAudioCtx.createMediaStreamSource(tunerStream);
+    tunerSource.connect(tunerAnalyser);
+
+    tunerBuf = new Float32Array(tunerAnalyser.fftSize);
+
+    if (elTunerHint) elTunerHint.textContent = "Tuner running. Pluck one string.";
+    if (tunerRAF) cancelAnimationFrame(tunerRAF);
+    tunerLoop();
+  } catch (err) {
+    if (elTunerHint) elTunerHint.textContent = "Mic blocked. Enable microphone permission in Safari settings.";
+  }
+}
+
+function stopTuner() {
+  if (tunerRAF) cancelAnimationFrame(tunerRAF);
+  tunerRAF = null;
+
+  if (tunerStream) {
+    tunerStream.getTracks().forEach(t => t.stop());
+    tunerStream = null;
+  }
+
+  if (tunerAudioCtx) {
+    tunerAudioCtx.close?.();
+    tunerAudioCtx = null;
+  }
+
+  tunerAnalyser = null;
+  tunerSource = null;
+  tunerBuf = null;
+
+  if (elTunerHint) elTunerHint.textContent = "Stopped.";
+  if (elTunerNote) elTunerNote.textContent = "—";
+  if (elTunerFreq) elTunerFreq.textContent = "— Hz";
+  if (elTunerCents) elTunerCents.textContent = "— cents";
+  drawTunerMeter(0);
+}
+
+btnTunerStart?.addEventListener("click", startTuner);
+btnTunerStop?.addEventListener("click", stopTuner);
+
 // ---- boot ----
 (function init() {
   setStageMode(localStorage.getItem("stageMode") === "1");
@@ -494,4 +711,7 @@ elSort?.addEventListener("change", applyFilters);
     applyFilters();
   })
   .catch(err => showError(err.message));
+
+  // initial tuner meter
+  drawTunerMeter(0);
 })();
