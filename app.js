@@ -299,6 +299,7 @@ elSearch.addEventListener("input", applyFilters);
 elEra.addEventListener("change", applyFilters);
 elTag.addEventListener("change", applyFilters);
 elSort.addEventListener("change", applyFilters);
+elArtist.addEventListener("change", applyFilters);
 
 // ---- boot ----
 (function init() {
