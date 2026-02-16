@@ -8,13 +8,66 @@
 </head>
 <body>
 
-<h1>🎸 Gig Builder</h1>
+<header class="topbar">
+  <h1>🎸 Gig Builder</h1>
+  <button id="btnStage" class="btn">🌓 Stage Mode</button>
+</header>
 
-<input type="text" id="search" placeholder="Search...">
+<section class="controls">
+  <input type="text" id="search" placeholder="Search song or artist…">
 
-<div id="songList"></div>
+  <select id="eraFilter">
+    <option value="all">All Eras</option>
+    <option value="80s">80s</option>
+    <option value="90s">90s</option>
+    <option value="00s">00s</option>
+  </select>
+
+  <select id="tagFilter">
+    <option value="all">All Tags</option>
+    <option value="pub">Pub</option>
+    <option value="acoustic">Acoustic</option>
+    <option value="party">Party</option>
+    <option value="indie">Indie</option>
+  </select>
+
+  <select id="sortBy">
+    <option value="default">Sort: Default</option>
+    <option value="popularityDesc">Popularity ↓</option>
+    <option value="popularityAsc">Popularity ↑</option>
+    <option value="energyAsc">Energy ↑</option>
+    <option value="energyDesc">Energy ↓</option>
+  </select>
+
+  <button id="btnBuild" class="btn">🤖 Build 90-min Set</button>
+</section>
+
+<section class="grid">
+  <div class="panel">
+    <h2>🎶 Library</h2>
+    <div id="songList"></div>
+  </div>
+
+  <div class="panel">
+    <h2>🎤 Current Set</h2>
+
+    <div class="set-actions">
+      <input type="text" id="setName" placeholder="Set name (e.g., Friday Pub)">
+      <button id="btnSaveSet" class="btn">💾 Save</button>
+      <button id="btnClearSet" class="btn btn-secondary">🧹 Clear</button>
+    </div>
+
+    <ol id="currentSet"></ol>
+
+    <h3>💽 Saved Sets</h3>
+    <div class="set-actions">
+      <select id="savedSets"></select>
+      <button id="btnLoadSet" class="btn">Load</button>
+      <button id="btnDeleteSet" class="btn btn-secondary">Delete</button>
+    </div>
+  </div>
+</section>
 
 <script src="app.js"></script>
-
 </body>
 </html>
